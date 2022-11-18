@@ -31,11 +31,12 @@
     "test": "standard -v 'lib/**/*.js'"
   },
   "dependencies": {
-    "@resultify/hubspot-cms-lib": "file:../hubspot-cms-lib",
     "arg": "~5.0.2",
     "execa": "~6.1.0",
     "git-url-parse": "~13.1.0",
-    "simple-git": "~3.15.0"
+    "simple-git": "~3.15.0",
+    "dotenv": "~16.0.1",
+    "chalk": "~5.1.0"
   },
   "devDependencies": {
     "husky": "^8.0.1",
