@@ -1,0 +1,1 @@
+# Resultify HubSpot CLI

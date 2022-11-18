@@ -1,0 +1,49 @@
+{
+  "name": "@resultify/rh-cli",
+  "version": "0.0.1",
+  "description": "Resultify HubSpot CMS CLI",
+  "keywords": [
+    "hubspot",
+    "resultify",
+    "hubspot tools",
+    "cli",
+    "hubspot cms"
+  ],
+  "homepage": "https://github.com/Resultify/rh-cli#readme",
+  "bugs": {
+    "url": "https://github.com/Resultify/rh-cli/issues"
+  },
+  "license": "MIT",
+  "author": "Resultify",
+  "files": [
+    "bin/",
+    "lib/"
+  ],
+  "bin": {
+    "rh": "./bin/rh-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Resultify/rh-cli.git"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "test": "standard -v 'lib/**/*.js'"
+  },
+  "dependencies": {
+    "@resultify/hubspot-cms-lib": "file:../hubspot-cms-lib",
+    "arg": "~5.0.2",
+    "execa": "~6.1.0",
+    "git-url-parse": "~13.1.0",
+    "simple-git": "~3.15.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "standard": "^17.0.0"
+  },
+  "engines": {
+    "node": ">=16.13.0",
+    "npm": ">=8.19.3"
+  },
+  "type": "module"
+}
