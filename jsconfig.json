@@ -1,8 +1,12 @@
 {
   "compilerOptions": {
-    "target": "esnext",
     "module": "esnext",
+    "target": "esnext",
+    "strict": true,
     "checkJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "useUnknownInCatchVariables": false,
     "moduleResolution": "node"
-  }
+  },
+  "include": ["lib/**/*", "bin/**/*"],
 }
