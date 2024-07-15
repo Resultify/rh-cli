@@ -6,7 +6,7 @@
     "checkJs": true,
     "forceConsistentCasingInFileNames": true,
     "useUnknownInCatchVariables": false,
-    "moduleResolution": "node"
+    "moduleResolution": "bundler"
   },
   "include": ["lib/**/*", "bin/**/*"],
 }
