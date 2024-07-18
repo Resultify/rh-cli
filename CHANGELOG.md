@@ -1,3 +1,9 @@
+### v1.0.1 `July 18, 2024`
+* **[TASK]** add ability to create .env file with real access key if available [`5ceabdc`](https://github.com/Resultify/rh-cli/commit/5ceabdc) (dmh)
+* **[TASK]** update npm deps [`5c17ae8`](https://github.com/Resultify/rh-cli/commit/5c17ae8) (dmh)
+
+***
+
 ### v1.0.0 `July 18, 2024`
 * **[DOC]** update readme file [`d3332af`](https://github.com/Resultify/rh-cli/commit/d3332af) (dmh)
 * **[TASK]** add git clone and addDotEnvFile fn-s, use it with rh init cmd [`b10baa9`](https://github.com/Resultify/rh-cli/commit/b10baa9) (dmh)
