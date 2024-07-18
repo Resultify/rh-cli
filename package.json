@@ -36,10 +36,10 @@
     "docs": "node build/docs.exec.js"
   },
   "dependencies": {
-    "@inquirer/checkbox": "2.3.11",
+    "@inquirer/checkbox": "2.4.0",
     "@inquirer/confirm": "3.1.15",
     "@inquirer/input": "2.2.2",
-    "@inquirer/select": "2.3.11",
+    "@inquirer/select": "2.4.0",
     "@octokit/request": "9.1.3",
     "@resultify/hubspot-cms-lib": "3.4.3",
     "browserslist": "4.23.2",
