@@ -1,3 +1,9 @@
+### v1.0.2 `July 19, 2024`
+* **[TASK]** update npm deps, update @resultify/hubspot-cms-lib to v3.4.5 [`56b7d2b`](https://github.com/Resultify/rh-cli/commit/56b7d2b) (dmh)
+* **[TASK]** use universal debug env variable name [`f13564a`](https://github.com/Resultify/rh-cli/commit/f13564a) (dmh)
+
+***
+
 ### v1.0.1 `July 18, 2024`
 * **[TASK]** add ability to create .env file with real access key if available [`5ceabdc`](https://github.com/Resultify/rh-cli/commit/5ceabdc) (dmh)
 * **[TASK]** update npm deps [`5c17ae8`](https://github.com/Resultify/rh-cli/commit/5c17ae8) (dmh)
