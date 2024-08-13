@@ -1,6 +1,6 @@
 {
   "name": "@resultify/rh-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Resultify HubSpot CMS CLI",
   "keywords": [
     "hubspot",

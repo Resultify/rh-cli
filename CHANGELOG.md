@@ -1,3 +1,8 @@
+### v1.0.3 `August 13, 2024`
+* **[TASK]** add info about required github token scope if token is not found [`badadf8`](https://github.com/Resultify/rh-cli/commit/badadf8) (dmh)
+
+***
+
 ### v1.0.2 `July 19, 2024`
 * **[TASK]** update npm deps, update @resultify/hubspot-cms-lib to v3.4.5 [`56b7d2b`](https://github.com/Resultify/rh-cli/commit/56b7d2b) (dmh)
 * **[TASK]** use universal debug env variable name [`f13564a`](https://github.com/Resultify/rh-cli/commit/f13564a) (dmh)
