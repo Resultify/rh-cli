@@ -1,4 +1,5 @@
 declare module '@resultify/hubspot-cms-lib/upload'
+declare module '@resultify/hubspot-cms-lib/ciUpload'
 declare module '@resultify/hubspot-cms-lib/cleanUpload'
 declare module '@resultify/hubspot-cms-lib/fetch'
 declare module '@resultify/hubspot-cms-lib/fetchModules'
