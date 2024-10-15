@@ -13,3 +13,17 @@ npm -g install @resultify/rh-cli
 ## Commands
 - `rh -h` get general help
 - `rh` get info based on current directory
+
+***
+
+## Authentication for some commands
+
+### One entry point to access keys
+
+- Add access keys to `~/.rh/.env.root` file
+```bash
+hub_portalname=personal-access-key-for-hubspot-portal
+hub_portalname2=personal-access-key-for-hubspot-portal
+GITHUB_TOKEN=GitHub Classic Personal access token with full repo scope is required
+```
+***
