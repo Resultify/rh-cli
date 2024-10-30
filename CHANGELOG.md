@@ -1,3 +1,10 @@
+### v1.3.0 `October 30, 2024`
+* **[TASK]** update @resultify/hubspot-cms-lib to v3.7.0 [`3684b44`](https://github.com/Resultify/rh-cli/commit/3684b44) (dmh)
+* **[TASK]** add buildModule and uploadModule commands [`4fe4860`](https://github.com/Resultify/rh-cli/commit/4fe4860) (dmh)
+* **[DOC]** update readme with authentication info [`5a6462f`](https://github.com/Resultify/rh-cli/commit/5a6462f) (dmh)
+
+***
+
 ### v1.2.0 `October 11, 2024`
 * **[TASK]** add ciUpload cmd, update @resultify/hubspot-cms-lib to v3.6.0 [`660bd3d`](https://github.com/Resultify/rh-cli/commit/660bd3d) (dmh)
 * **[TASK]** update npm deps [`0d1bcca`](https://github.com/Resultify/rh-cli/commit/0d1bcca) (dmh)
