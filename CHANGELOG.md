@@ -1,3 +1,8 @@
+### v1.3.1 `February 3, 2025`
+* **[TASK]** update @resultify/hubspot-cms-lib [`e04b4b9`](https://github.com/Resultify/rh-cli/commit/e04b4b9) (dmh)
+
+***
+
 ### v1.3.0 `October 30, 2024`
 * **[TASK]** update @resultify/hubspot-cms-lib to v3.7.0 [`3684b44`](https://github.com/Resultify/rh-cli/commit/3684b44) (dmh)
 * **[TASK]** add buildModule and uploadModule commands [`4fe4860`](https://github.com/Resultify/rh-cli/commit/4fe4860) (dmh)
