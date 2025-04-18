@@ -1,3 +1,8 @@
+### v1.3.2 `April 18, 2025`
+* **[TASK]** update dependencies [`47506aa`](https://github.com/Resultify/rh-cli/commit/47506aa) (dmh)
+
+***
+
 ### v1.3.1 `February 3, 2025`
 * **[TASK]** update @resultify/hubspot-cms-lib [`e04b4b9`](https://github.com/Resultify/rh-cli/commit/e04b4b9) (dmh)
 
